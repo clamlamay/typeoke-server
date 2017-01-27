@@ -11,7 +11,7 @@ class ApplicationController < Sinatra::Base
 
 	ActiveRecord::Base.establish_connection(
 		:adapter => 'mysql2',
-		:database => 'Project_3'
+		:database => 'heroku_3449a5f3cd5d4b3'
 	)
 
 	configure do
