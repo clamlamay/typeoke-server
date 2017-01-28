@@ -1,18 +1,18 @@
 default:
     adapter: mysql2
-    database: heroku_3449a5f3cd5d4b3
-    username: b727e6033000ab
-    password: 8a32cd40
-    host: us-cdbr-iron-east-04.cleardb.net
+    database: Project_3
+    username: admin25
+    password: w0rk5pac3
+    host: localhost
 development:
     adapter: mysql2
-    database: heroku_3449a5f3cd5d4b3
-    username: b727e6033000ab
-    password: 8a32cd40
-    host: us-cdbr-iron-east-04.cleardb.net
+    database: Project_3
+    username: admin25
+    password: w0rk5pac3
+    host: localhost
 production:
     adapter: mysql2
-    database: heroku_3449a5f3cd5d4b3
-    username: b727e6033000ab
-    password: 8a32cd40
-    host: us-cdbr-iron-east-04.cleardb.net
+    database: Project_3
+    username: admin25
+    password: w0rk5pac3
+    host: localhost

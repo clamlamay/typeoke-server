@@ -7,5 +7,5 @@ gem 'mysql2'
 gem 'sinatra-activerecord'
 gem 'sinatra-cross_origin', "~> 0.3.1"
 gem 'bcrypt'
-
+gem 'sqlite3'
 
